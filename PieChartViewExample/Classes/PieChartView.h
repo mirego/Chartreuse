@@ -5,7 +5,7 @@
 //  Copyright 2010 Dain Kaplan. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
 
 typedef struct {
 	float red;
